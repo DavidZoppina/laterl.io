@@ -1,0 +1,26 @@
+<?php
+$lang["You are using the monthly payment plan. Cancel it if you want to change the package or change your payment method."] = "You are using the monthly payment plan. Cancel it if you want to change the package or change your payment method.";
+$lang["Have a problem on your request. Please try again later"] = "Have a problem on your request. Please try again later";
+$lang["Success"] = "Success";
+$lang["Payment"] = "Payment";
+$lang["Make a payment"] = "Make a payment";
+$lang["Monthly"] = "Monthly";
+$lang["Annually"] = "Annually";
+$lang["Payment method"] = "Payment method";
+$lang["General"] = "General";
+$lang["Environment"] = "Environment";
+$lang["Live"] = "Live";
+$lang["Sandbox"] = "Sandbox";
+$lang["Currency"] = "Currency";
+$lang["Symbol"] = "Symbol";
+$lang["Submit"] = "Submit";
+$lang["Payment successfull"] = "Payment successfull";
+$lang["Thank you for your payment"] = "Thank you for your payment";
+$lang["Now everything is ready for you to use. Enjoy and start your plan."] = "Now everything is ready for you to use. Enjoy and start your plan.";
+$lang["Go to Dashboard"] = "Go to Dashboard";
+$lang["Payment unsuccessfull"] = "Payment unsuccessfull";
+$lang["The payment could not be completed"] = "The payment could not be completed";
+$lang["An error occurred during checkout. Please try again"] = "An error occurred during checkout. Please try again";
+$lang["Try to again"] = "Try to again";
+$lang["Total Payment"] = "Total Payment";
+$lang["%s Plan"] = "%s Plan";

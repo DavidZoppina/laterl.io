@@ -1,0 +1,68 @@
+.payment-manager .table-mod tbody tr td.avatar{
+	width: 40px;
+	padding: 0 0 0 20px;
+}
+
+.payment-manager .table-mod tbody tr td.avatar img{
+	border-radius: 100px;
+	width: 40px;
+	height: 40px;
+}
+
+.payment-manager .table-mod tbody tr td .btn.dropdown-toggle{
+	color: #959cb6;
+}
+
+.payment-manager .table-mod tbody tr td .btn.dropdown-toggle:after{
+	content: "";
+	display: none;
+}
+
+.payment-manager .widget-chart-activity{
+	height: 500px;
+}
+
+.payment-manager .widget-chart-activity .chart-bg{
+	height: 250px;
+	background: url(../img/bg-chart.png) bottom center no-repeat;
+}
+
+.payment-manager .widget-chart-activity .card-top{
+	height: 80px;
+}
+
+.payment-manager .widget-chart-activity .card-top .card-title{
+	font-size: 14px;
+	font-weight: 500;
+}
+
+
+.payment-manager .widget-chart-activity .card-box{
+	position: absolute;
+    top: 205px;
+    width: 100%;
+}
+
+.payment-manager .widget-chart-activity .card-box .box-item{
+	height: 126px;
+	margin-bottom: 20px;
+	background-color: #fff;
+	padding: 20px;
+	-webkit-box-shadow: 0 1px 15px 1px rgba(69,65,78,.06);
+    box-shadow: 0 1px 15px 1px rgba(69,65,78,.06);
+}
+
+.payment-manager .widget-chart-activity .card-box .box-item .icon{
+	display: block;
+	font-size: 30px;
+}
+
+.payment-manager .widget-chart-activity .card-box .box-item .title{
+	display: block;
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.payment-manager .widget-payment-box .card-body{
+	height: 438px;
+}
